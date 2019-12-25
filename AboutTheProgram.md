@@ -1,7 +1,7 @@
 
-# Deep Learning Nanodegree Foundation
+# Data Engineering Nanodegree 
 
-This repository contains material related to Udacity's [Deep Learning Nanodegree Foundation](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101) program. It consists of a bunch of tutorial notebooks for various deep learning topics. In most cases, the notebooks lead you through implementing models such as convolutional networks, recurrent networks, and GANs. There are other topics covered such as weight intialization and batch normalization.
+This repository contains material related to Udacity's [Data Engineering Nanodegree]https://www.udacity.com/course/data-engineer-nanodegree--nd027) program. It consists of a bunch of tutorial notebooks for various Data Engineering topics. In most cases, the notebooks lead you through implementing Data models, build data warehouses and data lakes, automate data pipelines, and work with massive datasets. 
 
 There are also notebooks used as projects for the Nanodegree program. In the program itself, the projects are reviewed by Udacity experts, but they are available here as well.
 
