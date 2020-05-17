@@ -1,3 +1,7 @@
+
+
+[syllabus-Data Engineering Projects](Projects/Data Modeling/syllabus-Data Engineering Projects.pdf)
+
 # Sparkify Postgres ETL
 
 This is the first project submission for the Data Engineering Nanodegree.
