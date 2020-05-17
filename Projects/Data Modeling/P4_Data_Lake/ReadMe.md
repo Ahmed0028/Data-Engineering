@@ -1,3 +1,5 @@
+[ Please click here for  Program syllabus, Projects reviews and certification](https://drive.google.com/file/d/1mwHkhx0jgxzKJPM_-JW3bDNyMTTi-Twu/view)
+
 **users** - users in the app
 - user_id (INT) PRIMARY KEY: ID of user
 - first_name (TEXT) NOT NULL: Name of user
